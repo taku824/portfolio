@@ -1,0 +1,18 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    text-align : center;
+}
+
+
+footer{
+    margin-top: auto;
+    text-align: center;
+    line-height: 200px;
+    height: 200px;
+    background-color: #555555;
+}
